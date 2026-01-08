@@ -21,3 +21,6 @@ let Student2 = new Student("Bob", 30);
 
 console.log(Student1.greet());
 console.log(Student2.age);
+
+// private age property is not accessible outside the class
+// console.log(Student1.age); // Error: Property 'age' is private and only accessible within class 'Student'.

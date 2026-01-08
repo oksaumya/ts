@@ -24,3 +24,4 @@ console.log(Teacher2.age);
 
 // Teacher2.age = 5;
 console.log(Teacher2.age);
+// randonly property cannot be modified after initialization

@@ -15,3 +15,5 @@ let value: number = 5
 let valu1: number = 5
 let valu2: number = 5
 let valu3: number = 5
+
+// enums allow us to define a set of named constants, making our code more readable and maintainable.
